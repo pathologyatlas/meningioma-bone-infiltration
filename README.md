@@ -1,58 +1,45 @@
-# template
+# Meningioma Bone Infiltration
 
-**template for pathology atlas repositories**
-
-
-> see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
-
-
-> do not forget to activate github pages for the new repository
-
-
-```zsh
-vips dzsave HE.svs HE
-```
-
-```{r language template, echo=FALSE, include=TRUE}
+```{r language meningioma-bone-infiltration, echo=FALSE, include=TRUE}
 source("./R/language.R")
 ```
 
 
 ```{asis, echo = (language == "TR")}
-# TemplateTR
+# Meningiom Kemik İnfiltrasyonu
 ```
 
 
 ```{asis, echo = (language == "EN")}
-# TemplateEN
+# Meningioma Bone Infiltration
 ```
 
 
 
 ```{asis, echo = (language == "TR")}
 
-**templateTR**
+**Meningiom Kemik İnfiltrasyonu**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/meningioma-bone-infiltration/HE.html](https://pathologyatlas.github.io/meningioma-bone-infiltration/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/meningioma-bone-infiltration/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
 
 ```{asis, echo = (language == "EN")}
 
-**templateEN**
+**Meningioma Bone Infiltration**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/meningioma-bone-infiltration/HE.html](https://pathologyatlas.github.io/meningioma-bone-infiltration/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/meningioma-bone-infiltration/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
