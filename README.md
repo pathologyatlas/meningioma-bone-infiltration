@@ -21,11 +21,11 @@ source("./R/language.R")
 **Meningiom Kemik İnfiltrasyonu**
 
 
-[https://pathologyatlas.github.io/meningioma-bone-infiltration/HE.html](https://pathologyatlas.github.io/meningioma-bone-infiltration/HE.html)
+[https://images.patolojiatlasi.com/meningioma-bone-infiltration/HE.html](https://images.patolojiatlasi.com/meningioma-bone-infiltration/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/meningioma-bone-infiltration/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/meningioma-bone-infiltration/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -35,11 +35,11 @@ Mikroskopik görüntüleri inceleyin:
 **Meningioma Bone Infiltration**
 
 
-[https://pathologyatlas.github.io/meningioma-bone-infiltration/HE.html](https://pathologyatlas.github.io/meningioma-bone-infiltration/HE.html)
+[https://images.patolojiatlasi.com/meningioma-bone-infiltration/HE.html](https://images.patolojiatlasi.com/meningioma-bone-infiltration/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/meningioma-bone-infiltration/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/meningioma-bone-infiltration/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
